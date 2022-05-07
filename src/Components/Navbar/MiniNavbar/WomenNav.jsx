@@ -22,10 +22,10 @@ export const WomenNav=()=>{
           <li>Jackets</li>
         </ul>
 
-        <ul class="nextul ">
+        <ul className="nextul ">
           <li>Belts, Scarves & More</li>
         </ul>
-        <ul class="nextul">
+        <ul className="nextul">
           <li>Watches & Wearables</li>
         </ul>
       </div>
@@ -44,10 +44,10 @@ export const WomenNav=()=>{
           <li>Blazers & Waistcoats</li>
         </ul>
 
-        <ul class="nextul">
+        <ul className="nextul">
           <li>Plus Size</li>
         </ul>
-        <ul class="nextul">
+        <ul className="nextul">
           <li>Sunglasses & Frames</li>
         </ul>
       </div>
@@ -61,7 +61,7 @@ export const WomenNav=()=>{
           <li>Sports Shoes & Floaters</li>
         </ul>
 
-        <ul class="nextul">
+        <ul className="nextul">
           <li>Sports & Active Wear</li>
           <li>Clothing</li>
           <li>Footwear</li>
@@ -80,7 +80,7 @@ export const WomenNav=()=>{
           <li>Camisoles & Thermals</li>
         </ul>
 
-        <ul class="nextul">
+        <ul className="nextul">
           <li>Beauty & Personal Care</li>
           <li>Makeup</li>
           <li>Skincare</li>
@@ -103,19 +103,19 @@ export const WomenNav=()=>{
           <li>Speakers</li>
         </ul>
 
-        <ul class="nextul">
+        <ul className="nextul">
           <li>Jewellery</li>
           <li>Fashion Jewellery</li>
           <li>Fine Jewellery</li>
           <li>Earrings</li>
         </ul>
-        <ul class="nextul">
+        <ul className="nextul">
           <li>Backpacks</li>
         </ul>
-        <ul class="nextul">
+        <ul className="nextul">
           <li>Handbags, Bags & Wallets</li>
         </ul>
-        <ul class="nextul">
+        <ul className="nextul">
           <li>Luggages & Trolleys</li>
         </ul>
       </div>

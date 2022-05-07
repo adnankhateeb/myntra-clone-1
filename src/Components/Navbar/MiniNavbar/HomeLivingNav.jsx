@@ -19,7 +19,7 @@ export const HomeLivingNav=()=>{
       <li>Bed Covers</li>
     </ul>
 
-    <ul class="nextul">
+    <ul className="nextul">
       <li>Flooring</li>
       <li>Carpets</li>
       <li>Floor Mats & Dhurries</li>
@@ -38,7 +38,7 @@ export const HomeLivingNav=()=>{
       <li>Bathroom Accessories</li>
     </ul>
 
-    <ul class="nextul">
+    <ul className="nextul">
       <li>Lamps & Lighting</li>
       <li>Floor Lamps</li>
       <li>Ceiling Lamps</li>
@@ -61,15 +61,15 @@ export const HomeLivingNav=()=>{
       <li>Showpieces & Vases</li>
     </ul>
 
-    <ul class="nextul">
+    <ul className="nextul">
       <li>Cushions & Cushion Covers</li>
     </ul>
 
-    <ul class="nextul">
+    <ul className="nextul">
       <li>Curtains</li>
     </ul>
 
-    <ul class="nextul">
+    <ul className="nextul">
       <li>Home Gift Sets</li>
     </ul>
       </div>
@@ -84,7 +84,7 @@ export const HomeLivingNav=()=>{
       <li>Table Covers & Furnishings</li>
     </ul>
 
-    <ul class="nextul">
+    <ul className="nextul">
       <li>Storage</li>
       <li>Organisers</li>
       <li>Hooks & Holders</li>

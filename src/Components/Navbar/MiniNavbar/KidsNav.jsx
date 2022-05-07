@@ -59,7 +59,7 @@ export const KidsNav=()=>{
       <li>Socks</li>
     </ul>
 
-    <ul class="nextul k">
+    <ul className="nextul k">
       <li>Toys</li>
       <li>Learning & Development</li>
       <li>Activity Toys</li>
@@ -81,10 +81,10 @@ export const KidsNav=()=>{
       <li>Infant Care</li>
     </ul>
 
-    <ul class="nextul k">
+    <ul className="nextul k">
       <li>Home & Bath</li>
     </ul>
-    <ul class="nextul k">
+    <ul className="nextul k">
       <li>Personal Care</li>
     </ul>
       </div>
@@ -104,7 +104,7 @@ export const KidsNav=()=>{
       <li>Caps & Hats</li>
     </ul>
 
-    <ul class="nextul k">
+    <ul className="nextul k">
       <li>Brands</li>
       <li>H&M</li>
       <li>Max Kids</li>

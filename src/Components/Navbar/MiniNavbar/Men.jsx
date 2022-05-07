@@ -1,11 +1,9 @@
-export const MenNav=()=>{
-
-
-    return (
-        <div className="ddown">
-            <div className="flex">
-              <div className="a1 m">
-                <ul>
+export const MenNav = () => {
+   return (
+      <div className="ddown">
+         <div className="flex">
+            <div className="a1 m">
+               <ul>
                   <li>Topwear</li>
                   <li>T-Shirts</li>
                   <li>Casual Shirts</li>
@@ -16,40 +14,39 @@ export const MenNav=()=>{
                   <li>Blazers & Coats</li>
                   <li>Suits</li>
                   <li>Rain Jackets</li>
-                </ul>
-                <ul class="nextul m">
+               </ul>
+               <ul className="nextul m">
                   <li>Indian & Festive Wear</li>
                   <li>Kurtas & Kurta Sets</li>
                   <li>Sherwanis</li>
                   <li>Nehru Jackets</li>
                   <li>Dhotis</li>
-                </ul>
-              </div>
-              <div className="a2 m">
-                <ul>
+               </ul>
+            </div>
+            <div className="a2 m">
+               <ul>
                   <li>Bottom Wear</li>
                   <li>Jeans</li>
                   <li>Casual Trousers</li>
                   <li>Formal Trousers</li>
                   <li>Shorts</li>
                   <li>Track Pants & Joggers</li>
-                </ul>
+               </ul>
 
-                <ul class="nextul m">
+               <ul className="nextul m">
                   <li>Innerwear & Sleepwear</li>
                   <li>Briefs & Trunks</li>
                   <li>Boxers</li>
                   <li>Vests</li>
                   <li>Sleepwear & Loungewear</li>
                   <li>Thermals</li>
-                </ul>
-                <ul class="nextul m">
+               </ul>
+               <ul className="nextul m">
                   <li>Plus Size</li>
-                
-                </ul>
-              </div>
-              <div className="a1 m">
-                <ul>
+               </ul>
+            </div>
+            <div className="a1 m">
+               <ul>
                   <li>Footwear</li>
                   <li>Casual Shoes</li>
                   <li>Sports Shoes</li>
@@ -58,21 +55,21 @@ export const MenNav=()=>{
                   <li>Sandals & Floaters</li>
                   <li>Flip Flops</li>
                   <li>Socks</li>
-                </ul>
-                <ul class="nextul m">
+               </ul>
+               <ul className="nextul m">
                   <li>Personal Care & Grooming</li>
                   <li>Lotions</li>
                   <li>Shaving kit</li>
-                </ul>
-                <ul clss="nextul m">
+               </ul>
+               <ul className="nextul m">
                   <li>Watches</li>
                   <li>Fastrack</li>
                   <li>Puma</li>
                   <li>Rado</li>
-                </ul>
-              </div>
-              <div className="a2 m">
-                <ul>
+               </ul>
+            </div>
+            <div className="a2 m">
+               <ul>
                   <li>Sports & Active Wear</li>
                   <li>Sports Shoes</li>
                   <li>Sports Sandals</li>
@@ -82,22 +79,22 @@ export const MenNav=()=>{
                   <li>Jackets & Sweatshirts</li>
                   <li>Sports Accessories</li>
                   <li>Swimwear</li>
-                </ul>
-                <ul class="nextul m">
+               </ul>
+               <ul className="nextul m">
                   <li>Gadgets</li>
                   <li>Smart Wearables</li>
                   <li>Fitness Gadgets</li>
                   <li>Headphones</li>
                   <li>Speakers</li>
-                </ul>
-              </div>
-              <div
-                className="a1 m"
-                style={{
+               </ul>
+            </div>
+            <div
+               className="a1 m"
+               style={{
                   paddingRight: "25px",
-                }}
-              >
-                <ul>
+               }}
+            >
+               <ul>
                   <li>Fashion Accessories</li>
                   <li>Wallets</li>
                   <li>Belts</li>
@@ -111,13 +108,13 @@ export const MenNav=()=>{
                   <li>Phone Cases</li>
                   <li>Rings & Wristwear</li>
                   <li>Helmets</li>
-                </ul>
-                <ul class="nextul m">
+               </ul>
+               <ul className="nextul m">
                   <li>Bags & Backpacks</li>
                   <li>Reebok</li>
-                </ul>
-              </div>
+               </ul>
             </div>
-          </div>
-    )
-}
+         </div>
+      </div>
+   );
+};
